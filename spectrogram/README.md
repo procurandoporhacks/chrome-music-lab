@@ -1,4 +1,4 @@
-# Spectrogram
+#Spectrogram
 - Clone the repo
 - Run :$ sudo npm install
 - Run :$ gulp build-all
